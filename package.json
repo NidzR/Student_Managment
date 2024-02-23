@@ -1,0 +1,36 @@
+{
+  "name": "cli-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "types": "inquirer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/jsonwebtoken": "^9.0.5",
+    "@types/mongoose": "^5.11.97",
+    "@types/swagger-ui-express": "^4.1.6",
+    "chalk": "^4.1.2",
+    "date-fns": "^3.3.1",
+    "inquirer": "^9.2.12",
+    "joi": "^17.12.0",
+    "modules": "^0.4.0",
+    "mongodb": "^6.3.0",
+    "open-trivia-db": "^2.1.5",
+    "openapi2jsonschema": "^1.1.0",
+    "opentdb-api": "^1.0.0",
+    "required": "^1.0.0",
+    "swagger-json": "^2.0.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "@types/inquirer": "^9.0.7",
+    "@types/joi": "^17.2.3"
+  },
+  "description": ""
+}
